@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaCheckCircle, FaClock, FaUsers, FaTrophy, FaBan, FaAward, FaGamepad, FaExclamationTriangle } from "react-icons/fa";
+import { FaCheckCircle, FaClock, FaUsers, FaTrophy, FaBan, FaGamepad, FaExclamationTriangle } from "react-icons/fa";
 
 const Rules = () => {
   const rules = [
